@@ -1,0 +1,22 @@
+BOT_TOKEN=8471564839:AAGYqeNhYrsCMnIkupD3Kfj_Fb0U6COhnDs
+ADMIN_ID=6463896308
+NOTIFICATION_CHAT_ID=6463896308
+
+# Настройки ценообразования
+PRICE_FACTOR_PER_RATING=0.15      # +15% за каждый балл рейтинга
+BASE_PRICE_MULTIPLIER=0.7         # Минимальный коэффициент для новичков (скидка 30%)
+
+# Данные организации (для согласия на обработку ПД)
+ORGANIZATION_NAME=Салон красоты «Ногти-Люкс»
+ORGANIZATION_INN=1234567890
+ORGANIZATION_OGRN=1234567890123
+ORGANIZATION_ADDRESS=г. Москва, ул. Примерная, д. 15
+ORGANIZATION_PHONE=+7 (999) 123-45-67
+ORGANIZATION_EMAIL=nails@example.ru
+
+# Настройки бота
+WORK_START_HOUR=10
+WORK_END_HOUR=20
+BOOKING_DAYS_AHEAD=14
+MAX_ACTIVE_BOOKINGS=3
+PORTFOLIO_DIR=portfolio
